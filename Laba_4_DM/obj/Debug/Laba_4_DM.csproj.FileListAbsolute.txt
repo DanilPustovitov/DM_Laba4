@@ -1,0 +1,12 @@
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\bin\Debug\Laba_4_DM.exe.config
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\bin\Debug\Laba_4_DM.exe
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\bin\Debug\Laba_4_DM.pdb
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.Form1.resources
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.Properties.Resources.resources
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.exe
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.pdb
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.BinaryTreeForm.resources
+C:\Users\Danil\source\repos\Laba_4_DM\Laba_4_DM\obj\Debug\Laba_4_DM.PolishNotation.resources
